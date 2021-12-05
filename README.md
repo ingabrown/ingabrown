@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingabrown
 - 👀 I’m interested in Infrastructure Automation, Observability
-- 🌱 I’m currently learning Develper Experience
+- 🌱 I write code and try to solve problem, hopefully less YAML but still not sure what's the catch
 - 📫 How to reach me ingabrown@protonmail.com
 
 <!---
